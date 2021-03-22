@@ -1,5 +1,4 @@
-//shortcodes (according to Discord)
-var shortcodes = [
+[
     ["100", "💯"],
     ["1234", "🔢"],
     ["grinning", "😀"],
